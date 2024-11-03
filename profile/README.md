@@ -3,6 +3,17 @@
 ## What is CSMM?
 CSMM, or Code Source Module Manager, is a tool for managing C language source code organized into modules. It operates similarly to a package manager, offering many of the same features but tailored specifically for C source code management.
 
+## Features / Commands
+- `csmm init` - Initialize a new CSMM project
+- `csmm install` - Add a module to the project
+- `csmm remove` - Remove a module from the project
+- `csmm list` - List all modules in the project
+- `csmm search` - Search for a module in the CSMM modules repository
+- `csmm update` - (Re)Install the modules in modules.json
+- `csmm check` - Check the project for missing modules and dependencies
+- `csmm make` - Build the project (generate makefile, generate include files, and call make)
+- `csmm clean` - Delete the contents of the modules directory
+
 ## Why create CSMM?
 As a developer working extensively with C in both firmware and software projects, I had a need for a solution that simplifies code reuse in both personal and professional projects. CSMM is designed to boost productivity by streamlining the management and integration of code modules. Frequently, I find myself re-implementing features I've already developed or copying and pasting code from other projects. While this may seem acceptable, it becomes inefficient when I need to fix a bug in a module that I've already addressed in another project. CSMM allows for easy upgrading and downgrading of modules to any available version, enabling code reuse without the hassle of managing shared code effectively.
 
