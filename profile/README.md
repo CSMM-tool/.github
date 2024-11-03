@@ -8,3 +8,20 @@ As a developer working extensively with C in both firmware and software projects
 
 ## Mascot: Cosmo the Chinchilla
 Introducing Cosmo, our cheerful blue and yellow chinchilla with stylish sunglasses! We chose a chinchilla as our mascot for two reasons: their undeniable charm and the fact that "chinchilla" begins with the letter 'C', perfectly aligning with our focus on the C programming language.
+
+## Why is CSMM written in Python?
+The initial version of CSMM was developed in C, however, Python offers a more easy development process thanks to its extensive libraries. Since CSMM is not a performance-critical application, the performance trade-off associated with transitioning to Python is negligible.
+
+## CSMM Source Code
+The source code for CSMM is licensed under the MIT License and can be accessed at:  
+[CSMM GitHub Repository](https://github.com/CSMM-tool/CSMM)
+
+## Modules Repository
+You can find the repository for CSMM modules at:  
+[CSMM Modules Repository](https://github.com/CSMM-tool/CSMM-repo)
+
+## License
+The code of CSMM itself is licensed under the MIT License.
+CSMM core and std modules are licensed under the MIT License, other modules can have their own licenses. 
+See specific module for details.
+
