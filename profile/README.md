@@ -1,4 +1,4 @@
-# CSMM
+# CSMM (available soon)
 
 ## What is CSMM?
 CSMM, or Code Source Module Manager, is a tool for managing C language source code organized into modules. It operates similarly to a package manager, offering many of the same features but tailored specifically for C source code management.
