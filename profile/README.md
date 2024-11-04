@@ -19,7 +19,7 @@ As a developer working extensively with C in both firmware and software projects
 
 ## Mascot: Cosmo the Chinchilla
 Introducing Cosmo, our cheerful blue and yellow chinchilla with stylish sunglasses! We chose a chinchilla as our mascot for two reasons: their undeniable charm and the fact that "chinchilla" begins with the letter 'C', perfectly aligning with our focus on the C programming language.  
-![Cosmo](cosmo.png "Cosmo")
+![Cosmo](https://github.com/CSMM-tool/.github/blob/main/profile/cosmo.png "Cosmo")
 
 
 ## Why is CSMM written in Python?
